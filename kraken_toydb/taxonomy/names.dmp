@@ -1,0 +1,427 @@
+1	|	all	|		|	synonym	|
+1	|	root	|		|	scientific name	|
+10239	|	Vira	|		|	synonym	|
+10239	|	Viridae	|		|	synonym	|
+10239	|	Viruses	|		|	scientific name	|
+10239	|	viruses	|	viruses<blast10239>	|	blast name	|
+10240	|	Poxviridae	|		|	scientific name	|
+10241	|	Chordopoxvirinae	|		|	scientific name	|
+10242	|	Orthopoxvirus	|		|	scientific name	|
+10245	|	Vaccinia virus	|		|	scientific name	|
+10245	|	vaccinia virus VV	|		|	synonym	|
+10404	|	Hepadnaviridae	|		|	scientific name	|
+10404	|	hepatitis B-type viruses	|		|	genbank common name	|
+10405	|	Orthohepadnavirus	|		|	scientific name	|
+10405	|	mammalian hepatitis B-type viruses	|		|	genbank common name	|
+10406	|	GSHV	|		|	acronym	|
+10406	|	Ground squirrel hepatitis B virus	|		|	synonym	|
+10406	|	Ground squirrel hepatitis virus	|		|	scientific name	|
+10442	|	Baculoviridae	|		|	scientific name	|
+10508	|	Adenoviridae	|		|	scientific name	|
+10509	|	Mastadenovirus	|		|	scientific name	|
+10519	|	Adenovirus 7	|		|	synonym	|
+10519	|	Adenovirus type 7	|		|	synonym	|
+10519	|	Human adenovirus 7	|		|	scientific name	|
+10519	|	Human adenovirus B7	|		|	synonym	|
+10519	|	Human adenovirus serotype 7	|		|	synonym	|
+10519	|	Human adenovirus type 7	|		|	synonym	|
+10519	|	Human adenoviruses type 7	|		|	synonym	|
+10519	|	Humann adenovirus type 7	|		|	misnomer	|
+10519	|	Mastadenovirus 7	|		|	synonym	|
+10519	|	Mastadenovirus h7	|		|	synonym	|
+10519	|	Mastadenovirus p7	|		|	synonym	|
+10519	|	human adenovirus type 7 Ad7	|		|	synonym	|
+10519	|	human adenoviruses type 7 Ad7	|		|	misnomer	|
+10566	|	Human Papilloma Virus	|		|	synonym	|
+10566	|	Human papillomavirus	|		|	scientific name	|
+10566	|	human papillomavirus HPV	|		|	synonym	|
+10623	|	CRPV	|		|	acronym	|
+10623	|	Cottontail rabbit (SHOPE) PAPILLOMAVIRUS	|		|	synonym	|
+10623	|	Cottontail rabbit papillomavirus	|		|	synonym	|
+10623	|	Kappapapillomavirus 2	|		|	scientific name	|
+10623	|	Papillomavirus sylvilagi	|		|	synonym	|
+10623	|	Rabbit papillomavirus	|		|	synonym	|
+10624	|	Polyomavirus	|		|	scientific name	|
+10624	|	Polyomaviruses	|		|	synonym	|
+10652	|	Badnavirus	|		|	scientific name	|
+10652	|	Commelina yellow mottle virus group	|		|	synonym	|
+10780	|	Parvoviridae	|		|	scientific name	|
+10806	|	Ambidensovirus	|		|	scientific name	|
+10806	|	Densovirus	|		|	synonym	|
+10806	|	Pefudensovirus	|		|	synonym	|
+10806	|	Pefundesovirus	|		|	misspelling	|
+10806	|	densoviruses	|		|	common name	|
+10811	|	Geminiviridae	|		|	scientific name	|
+10811	|	Geminivirus	|		|	synonym	|
+10814	|	Begomovirus	|		|	scientific name	|
+10814	|	Geminivirus subgroup III	|		|	synonym	|
+10814	|	Subgroup III Geminivirus	|		|	synonym	|
+10831	|	TGMV	|		|	acronym	|
+10831	|	Tomato golden mosaic virus	|		|	scientific name	|
+10831	|	tomato golden mosaic virus TGMV	|		|	synonym	|
+10832	|	TYLCV	|		|	genbank acronym	|
+10832	|	Tomato yellow leaf curl virus	|		|	scientific name	|
+10832	|	tomato yellow leaf curl begomovirus	|		|	synonym	|
+10832	|	tomato yellow leaf curl geminivirus	|		|	synonym	|
+10832	|	tomato yellow leaf curl virus TYLCV	|		|	synonym	|
+11050	|	Flaviviridae	|		|	scientific name	|
+11050	|	Flavivirus (arbovirus group B)	|		|	synonym	|
+11051	|	Flavivirus	|		|	scientific name	|
+11051	|	arboviruses group B	|		|	genbank common name	|
+11071	|	Japanese encephalitis virus group	|		|	scientific name	|
+11071	|	Japanese encephalitis viruses	|		|	synonym	|
+11082	|	WNV	|		|	genbank acronym	|
+11082	|	West Nile virus	|		|	scientific name	|
+11118	|	Coronaviridae	|		|	scientific name	|
+11155	|	Torovirus	|		|	scientific name	|
+11157	|	Mononegavirales	|		|	scientific name	|
+11157	|	negative-sense genome single-stranded RNA viruses	|		|	genbank common name	|
+11158	|	Paramyxoviridae	|		|	scientific name	|
+11159	|	Paramyxovirinae	|		|	scientific name	|
+11229	|	Morbillivirus	|		|	scientific name	|
+11229	|	Morbilliviruses	|		|	synonym	|
+11234	|	Cell-associated subacute sclerosing panencephalitis	|		|	synonym	|
+11234	|	Measles virus	|		|	scientific name	|
+11234	|	Subacute sclerosing panencephalitis virus	|		|	synonym	|
+11234	|	measles virus MV	|		|	synonym	|
+11234	|	rougeole virus	|		|	synonym	|
+11234	|	rubeola virus	|		|	synonym	|
+11234	|	subacute sclerose panencephalitis virus	|		|	synonym	|
+11234	|	subacute sclerosing panencephalitis virus, SSPEV	|		|	synonym	|
+11235	|	Measles virus (STRAIN EDMONSTON)	|		|	synonym	|
+11235	|	Measles virus strain Edmonston	|		|	scientific name	|
+11266	|	Filoviridae	|		|	scientific name	|
+11266	|	Filovirus	|		|	synonym	|
+11270	|	Rhabdoviridae	|		|	scientific name	|
+11306	|	Nucleorhabdovirus	|		|	scientific name	|
+11306	|	Plant rhabdovirus subgroup B	|		|	synonym	|
+11306	|	plant rhabdoviruses subgroup B	|		|	synonym	|
+11308	|	Orthomyxoviridae	|		|	scientific name	|
+11520	|	FLUBV	|		|	acronym	|
+11520	|	Influenza B virus	|		|	scientific name	|
+11520	|	Influenza virus type B	|		|	synonym	|
+11617	|	Arenaviridae	|		|	scientific name	|
+11630	|	Pichind mammarenavirus	|		|	synonym	|
+11630	|	Pichinde arenavirus	|		|	synonym	|
+11630	|	Pichinde mammarenavirus	|		|	scientific name	|
+11630	|	Pichinde virus	|		|	synonym	|
+11632	|	Retroviridae	|		|	scientific name	|
+11806	|	FBR murine osteosarcoma virus	|		|	scientific name	|
+11830	|	Murine osteosarcoma virus	|		|	scientific name	|
+11974	|	Caliciviridae	|		|	scientific name	|
+11983	|	Norwalk calicivirus	|		|	synonym	|
+11983	|	Norwalk virus	|		|	scientific name	|
+11983	|	Norwalk virus NV	|		|	synonym	|
+12058	|	Picormavirus	|		|	misspelling	|
+12058	|	Picornaviridae	|		|	scientific name	|
+12058	|	Picornavirus	|		|	synonym	|
+12059	|	Enterovirus	|		|	scientific name	|
+12059	|	Enteroviruses	|		|	synonym	|
+12059	|	Rhinovirus	|		|	includes	|
+12059	|	Rhinoviruses	|		|	includes	|
+12059	|	common cold viruses	|		|	includes	|
+12075	|	Swine vesicular disease virus	|		|	scientific name	|
+12131	|	HRV-14	|		|	acronym	|
+12131	|	Human rhinovirus 14	|		|	synonym	|
+12131	|	Human rhinovirus B14	|		|	scientific name	|
+12131	|	human rhinovirus 14 HRV14	|		|	synonym	|
+12137	|	Sobemovirus	|		|	scientific name	|
+12137	|	Velvet tobacco mottle virus group	|		|	synonym	|
+12163	|	Carlavirus	|		|	scientific name	|
+12195	|	Potyvirus	|		|	scientific name	|
+12320	|	Alfalfa mosaic virus group	|		|	synonym	|
+12320	|	Alfamovirus	|		|	scientific name	|
+12321	|	AMV	|	AMV <#2>	|	acronym	|
+12321	|	Alfalfa mosaic virus	|		|	scientific name	|
+12429	|	unclassified virus	|		|	synonym	|
+12429	|	unclassified viruses	|		|	scientific name	|
+12480	|	African green monkey lymphotropic papovavirus LPV	|		|	synonym	|
+12480	|	African green monkey polyomavirus	|		|	scientific name	|
+12480	|	Lymphotropic papovavirus	|		|	synonym	|
+12480	|	Lymphotropic polyomavirus	|		|	synonym	|
+12480	|	Polyomavirus cercopitheci	|		|	synonym	|
+12524	|	JcDNV	|		|	acronym	|
+12524	|	Junonia coenia densovirus	|		|	scientific name	|
+12524	|	Junonia coenia densovirus JcDNV	|		|	synonym	|
+12524	|	Junonia coenia densovirus, JcDNV	|		|	synonym	|
+12542	|	Omsk haemorrhagic fever virus	|		|	synonym	|
+12542	|	Omsk haemorrhagic fever virus OHF	|		|	synonym	|
+12542	|	Omsk hemorrhagic fever virus	|		|	scientific name	|
+28280	|	Adenovirus 4	|		|	synonym	|
+28280	|	Adenovirus type 4	|		|	synonym	|
+28280	|	Human adenovirus 4	|		|	synonym	|
+28280	|	Human adenovirus E4	|		|	scientific name	|
+28280	|	Human adenovirus type 4	|		|	synonym	|
+28280	|	Mastadenovirus h4	|		|	synonym	|
+29258	|	ssDNA nonenveloped viruses	|		|	synonym	|
+29258	|	ssDNA viruses	|		|	scientific name	|
+29263	|	Tick-borne encephalitis viruses	|		|	synonym	|
+29263	|	tick-borne encephalitis virus group	|		|	scientific name	|
+32606	|	Rabbitpox virus	|		|	scientific name	|
+35237	|	dsDNA viruses, no RNA stage	|		|	scientific name	|
+35268	|	Retro-transcribing viruses	|		|	scientific name	|
+35268	|	Retroid viruses	|		|	synonym	|
+35278	|	ssRNA positive-strand viruses, no DNA stage	|		|	scientific name	|
+35296	|	unclassified Picornaviridae	|		|	scientific name	|
+35301	|	ssRNA negative-strand viruses	|		|	scientific name	|
+35303	|	unclassified Rhabdoviridae	|		|	scientific name	|
+38144	|	unclassified Flaviviridae	|		|	scientific name	|
+39724	|	Circoviridae	|		|	scientific name	|
+39725	|	Circovirus	|		|	scientific name	|
+39729	|	Potyviridae	|		|	scientific name	|
+39738	|	Tombusviridae	|		|	scientific name	|
+39740	|	Bromoviridae	|		|	scientific name	|
+39745	|	unclassified Paramyxovirinae	|		|	scientific name	|
+40119	|	Parvovirinae	|		|	scientific name	|
+40120	|	Densovirinae	|		|	scientific name	|
+42789	|	EV-D68	|		|	genbank acronym	|
+42789	|	Enterovirus 68	|		|	synonym	|
+42789	|	Enterovirus D68	|		|	scientific name	|
+42789	|	Human enterovirus 68	|		|	synonym	|
+42789	|	Human enterovirus D68	|		|	synonym	|
+42789	|	Human enterovirus EV68	|		|	synonym	|
+46473	|	BRV	|		|	acronym	|
+46473	|	Breda torovirus	|		|	synonym	|
+46473	|	Breda virus	|		|	scientific name	|
+46619	|	Sweet potato G virus	|		|	synonym	|
+46619	|	Sweet potato virus G	|		|	scientific name	|
+46619	|	Sweetpotato virus G	|		|	misnomer	|
+47681	|	Enterovirus sp.	|		|	scientific name	|
+49891	|	Pirital mammarenavirus	|		|	scientific name	|
+49891	|	Pirital virus	|		|	synonym	|
+64286	|	Usutu virus	|		|	scientific name	|
+70149	|	Measles virus strain Edmonston-Zagreb	|		|	scientific name	|
+70149	|	Measles virus strain Zagreb	|		|	synonym	|
+70149	|	measles virus (strain edmonston-zagreb)	|		|	synonym	|
+74501	|	Bovine torovirus	|		|	scientific name	|
+76804	|	Nidovirales	|		|	scientific name	|
+90010	|	unclassified Enterovirus	|		|	scientific name	|
+90010	|	unclassified Enteroviruses	|		|	synonym	|
+92963	|	ToSLCV	|		|	genbank acronym	|
+92963	|	Tomato severe leaf curl geminivirus	|		|	synonym	|
+92963	|	Tomato severe leaf curl virus	|		|	scientific name	|
+108098	|	HAdV-B	|		|	genbank acronym	|
+108098	|	Human adenovirus B	|		|	synonym	|
+108098	|	Human mastadenovirus B	|		|	scientific name	|
+111874	|	Neodiprion sertifer NPV	|		|	synonym	|
+111874	|	Neodiprion sertifer nucleopolyhedrovirus	|		|	scientific name	|
+122929	|	Norovirus GII	|		|	scientific name	|
+122929	|	Norovirus genogroup 2	|		|	synonym	|
+122929	|	Norovirus genogroup II	|		|	synonym	|
+122929	|	Norwalk-like virus genogroup 2	|		|	synonym	|
+122929	|	Norwalk-like viruses genogroup 2	|		|	synonym	|
+122929	|	human calicivirus genogroup 2	|		|	synonym	|
+130308	|	HAdV-E	|		|	acronym	|
+130308	|	Human adenovirus E	|		|	synonym	|
+130308	|	Human mastadenovirus E	|		|	scientific name	|
+137555	|	unclassified Tombusviridae	|		|	scientific name	|
+138949	|	Enterovirus B	|		|	scientific name	|
+138949	|	Enterovirus EV-B	|		|	synonym	|
+138949	|	Human enterovirus B	|		|	synonym	|
+138951	|	Enterovirus D	|		|	scientific name	|
+138951	|	Enterovirus EV-D	|		|	synonym	|
+138951	|	Human enterovirus D	|		|	synonym	|
+142786	|	Norovirus	|		|	scientific name	|
+142786	|	Norwalk-like viruses	|		|	synonym	|
+146500	|	WMV2	|		|	acronym	|
+146500	|	Watermelon mosaic virus	|		|	scientific name	|
+146500	|	Watermelon mosaic virus 2	|		|	synonym	|
+146500	|	Watermelon mosaic virus ii	|		|	synonym	|
+146500	|	watermelon mosaic virus 2, WMV2	|		|	synonym	|
+147712	|	Human rhinovirus B	|		|	synonym	|
+147712	|	Rhinovirus B	|		|	scientific name	|
+150080	|	Human calicivirus NLV	|		|	synonym	|
+150080	|	Human calicivirus isolates	|		|	synonym	|
+150080	|	Norovirus isolates	|		|	scientific name	|
+150080	|	human calicivirus	|		|	synonym	|
+151340	|	Papillomaviridae	|		|	scientific name	|
+151340	|	Papillomavirus	|		|	equivalent name	|
+151341	|	Polyomaviridae	|		|	scientific name	|
+153135	|	Gammaretrovirus	|		|	scientific name	|
+153135	|	MLV-related viruses	|		|	synonym	|
+153135	|	Mammalian type C retrovirus group	|		|	synonym	|
+153135	|	Mammalian type C retroviruses	|		|	synonym	|
+153135	|	mammalian type C oncoviruses	|		|	synonym	|
+153135	|	type C oncoviruses	|		|	synonym	|
+170525	|	Measles virus genotype D4	|		|	scientific name	|
+170528	|	Measles virus genotype D8	|		|	scientific name	|
+172278	|	Chili leaf curl virus	|		|	synonym	|
+172278	|	Chilli leaf curl geminivirus	|		|	synonym	|
+172278	|	Chilli leaf curl virus	|		|	scientific name	|
+173087	|	Human papillomavirus types	|		|	scientific name	|
+185636	|	MIDNV	|		|	acronym	|
+185636	|	Mythimna loreyi densovirus	|		|	scientific name	|
+185636	|	Mythimna loreyi densovirus (MIDNV)	|		|	misnomer	|
+186534	|	Caulimoviridae	|		|	scientific name	|
+186536	|	Ebola-like viruses	|		|	synonym	|
+186536	|	Ebolavirus	|		|	scientific name	|
+186540	|	Ebolavirus Sudan	|		|	synonym	|
+186540	|	SEBOV	|		|	acronym	|
+186540	|	SUDV	|		|	acronym	|
+186540	|	Sudan Ebola virus	|		|	synonym	|
+186540	|	Sudan ebolavirus	|		|	scientific name	|
+194960	|	Kobuvirus	|		|	scientific name	|
+197912	|	Influenzavirus B	|		|	scientific name	|
+223341	|	Tomato golden mosaic virus-Yellow vein	|		|	scientific name	|
+240492	|	Tomato chino La Paz geminivirus	|		|	synonym	|
+240492	|	Tomato chino La Paz virus	|		|	scientific name	|
+258453	|	Human calicivirus NLV/GII/Langen1061/2002/DE	|		|	scientific name	|
+259898	|	Sheldgoose hepatitis B virus	|		|	scientific name	|
+259931	|	Ross' goose hepatitis B virus	|		|	synonym	|
+259931	|	Ross's goose hepatitis B virus	|		|	scientific name	|
+263004	|	Sweet potato chlorotic fleck virus	|		|	scientific name	|
+263531	|	Possum enterovirus W1	|		|	scientific name	|
+263532	|	Possum enterovirus W6	|		|	scientific name	|
+270117	|	Euphorbia leaf curl virus	|		|	scientific name	|
+291027	|	unclassified Begomovirus	|		|	scientific name	|
+291027	|	unclassified begomoviruses	|		|	synonym	|
+307444	|	Erinnyis ello granulovirus	|		|	scientific name	|
+325348	|	unclassified Badnavirus	|		|	scientific name	|
+325457	|	Kappapapillomavirus	|		|	scientific name	|
+325462	|	Lambdapapillomavirus	|		|	scientific name	|
+327045	|	Orthoretrovirinae	|		|	scientific name	|
+327375	|	unclassified Carlavirus	|		|	scientific name	|
+328670	|	Banana streak GF virus	|		|	scientific name	|
+328670	|	Banana streak Goldfinger virus	|		|	synonym	|
+333750	|	Alphapapillomavirus	|		|	scientific name	|
+333760	|	HPV16	|		|	acronym	|
+333760	|	Human papillomavirus type 16	|		|	scientific name	|
+333760	|	human papillomavirus type 16 HPV 16	|		|	synonym	|
+333760	|	human papillomavirus type 16 HPV16	|		|	synonym	|
+333774	|	unclassified Papillomaviridae	|		|	scientific name	|
+336063	|	unclassified Hepadnaviridae	|		|	scientific name	|
+337039	|	Alphapapillomavirus 2	|		|	scientific name	|
+337039	|	Human papillomavirus - 10	|		|	synonym	|
+337039	|	Human papillomavirus 10	|		|	synonym	|
+337041	|	Alphapapillomavirus 9	|		|	scientific name	|
+337041	|	Human papillomavirus - 16	|		|	synonym	|
+337041	|	Human papillomavirus 16	|		|	synonym	|
+342107	|	unclassified Betabaculovirus	|		|	scientific name	|
+342107	|	unclassified Granulovirus	|		|	synonym	|
+345249	|	unclassified Circovirus	|		|	scientific name	|
+351680	|	Measles virus genotypes and isolates	|		|	scientific name	|
+353769	|	unclassified Gammaretrovirus	|		|	scientific name	|
+439488	|	ssRNA viruses	|		|	scientific name	|
+453050	|	Sweet potato virus 2	|		|	scientific name	|
+464095	|	Picornavirales	|		|	scientific name	|
+488317	|	Eggplant mottled dwarf virus	|		|	scientific name	|
+489821	|	Norovirus GII.4	|		|	scientific name	|
+489821	|	Norovirus genogroup GII.4	|		|	synonym	|
+490039	|	Norovirus GII.2	|		|	scientific name	|
+490039	|	Norovirus genogroup GII.2	|		|	synonym	|
+499193	|	Norovirus GII.6	|		|	scientific name	|
+499193	|	Norovirus genogroup GII.6	|		|	synonym	|
+502177	|	unclassified Sobemovirus	|		|	scientific name	|
+518987	|	Influenza B virus (B/Lee/1940)	|		|	scientific name	|
+518987	|	Influenza B virus (B/Lee/40)	|		|	synonym	|
+518987	|	Influenza B virus (STRAIN B/LEE/40)	|		|	synonym	|
+535898	|	Rosa rugosa leaf distortion virus	|		|	scientific name	|
+549779	|	Mimiviridae	|		|	scientific name	|
+558017	|	Betabaculovirus	|		|	scientific name	|
+558017	|	GV	|		|	acronym	|
+558017	|	Granulosis viruses	|		|	synonym	|
+558017	|	Granulovirus	|		|	synonym	|
+558018	|	Gammabaculovirus	|		|	scientific name	|
+558018	|	Nucleopolyhedrovirus	|	Nucleopolyhedrovirus <Gammabaculovirus>	|	in-part	|
+565302	|	Human adenovirus B1	|		|	scientific name	|
+642248	|	unclassified Circoviridae	|		|	scientific name	|
+655314	|	unclassified Kobuvirus	|		|	scientific name	|
+675063	|	Tymovirales	|		|	scientific name	|
+675068	|	Betaflexiviridae	|		|	scientific name	|
+675068	|	Flexiviridae	|	Flexiviridae <Betaflexiviridae>	|	in-part	|
+693995	|	Coronavirinae	|		|	scientific name	|
+694002	|	Betacoronavirus	|		|	scientific name	|
+694002	|	Coronavirus	|	Coronavirus <Betacoronavirus>	|	in-part	|
+694002	|	Coronavirus group 2	|		|	synonym	|
+694002	|	Group 2 species	|		|	synonym	|
+694017	|	Torovirinae	|		|	scientific name	|
+696098	|	unclassified Betacoronavirus	|		|	scientific name	|
+696098	|	unclassified group 2 species	|		|	synonym	|
+763792	|	Measles virus genotype H1	|		|	scientific name	|
+884093	|	Measles virus strain MVi/New York.USA/26.09/3	|		|	scientific name	|
+884094	|	Measles virus strain MVi/Florida.USA/19.09	|		|	scientific name	|
+884095	|	Measles virus strain MVi/Virginia.USA/15.09	|		|	scientific name	|
+884096	|	Measles virus strain MVi/Arizona.USA/11.08/2	|		|	scientific name	|
+884097	|	Measles virus strain MVi/Texas.USA/4.07	|		|	scientific name	|
+884098	|	Measles virus strain MVi/New Jersey.USA/45.05	|		|	scientific name	|
+884099	|	Measles virus strain MVi/California.USA/8.04	|		|	scientific name	|
+884100	|	Measles virus strain MVi/California.USA/16.03	|		|	scientific name	|
+884101	|	Measles virus strain MVi/Pennsylvania.USA/20.09	|		|	scientific name	|
+985780	|	unclassified Mimiviridae	|		|	scientific name	|
+985782	|	Mimiviridae Moumouvirus	|		|	synonym	|
+985782	|	Moumou virus	|		|	synonym	|
+985782	|	Moumouvirus	|		|	scientific name	|
+1056492	|	Measles virus genotype G3	|		|	scientific name	|
+1084715	|	PBoV3	|		|	acronym	|
+1084715	|	Porcine bocavirus 3	|		|	scientific name	|
+1084715	|	Porcine bocavirus G3	|		|	synonym	|
+1086071	|	Tomato severe leaf curl virus - Huasteca	|		|	scientific name	|
+1086072	|	Tomato yellow leaf curl virus - Huasteca	|		|	scientific name	|
+1089138	|	Picornavirus quail/QPV1/HUN/2010	|		|	synonym	|
+1089138	|	Quail picornavirus QPV1/HUN/2010	|		|	scientific name	|
+1089795	|	Measles virus strain MVi/Washington.USA/18.08/1	|		|	scientific name	|
+1104916	|	unclassified Lambdapapillomavirus	|		|	scientific name	|
+1117633	|	Tailam virus	|		|	scientific name	|
+1127768	|	Tomato Chino La Paz virus -SLP 4	|		|	scientific name	|
+1127769	|	Tomato severe leaf curl virus - SLP 3	|		|	scientific name	|
+1133557	|	Phytophthora infestans RNA virus 3	|		|	scientific name	|
+1133751	|	Artemisia sobemovirus A	|		|	synonym	|
+1133751	|	Artemisia virus A	|		|	scientific name	|
+1136133	|	Porcine kobuvirus SH-W-CHN/2010/China	|		|	scientific name	|
+1138844	|	Porcine bocavirus 3C	|		|	scientific name	|
+1156769	|	Pig Kobuvirus isolates	|		|	synonym	|
+1156769	|	Porcine kobuvirus	|		|	scientific name	|
+1216927	|	Nakisamata ebolavirus	|		|	synonym	|
+1216927	|	Sudan ebolavirus - Nakisamata	|		|	scientific name	|
+1216927	|	Sudan ebolavirus strain Nakisamata	|		|	synonym	|
+1247379	|	Moumouvirus goulette	|		|	scientific name	|
+1263720	|	Betacoronavirus England 1	|		|	scientific name	|
+1268361	|	Norovirus Hu/GII.4/HS191/2004/USA	|		|	scientific name	|
+1288116	|	Human papillomavirus type XS2	|		|	scientific name	|
+1288358	|	Tench rhabdovirus S64	|		|	scientific name	|
+1288359	|	Grass carp rhabdovirus V76	|		|	scientific name	|
+1288829	|	Pepper yellow leaf curl China virus	|		|	scientific name	|
+1298633	|	Aichivirus C	|		|	scientific name	|
+1307119	|	TDAV	|		|	acronym	|
+1307119	|	Theiler's disease associated virus	|		|	synonym	|
+1307119	|	Theiler's disease-associated virus	|		|	scientific name	|
+1330520	|	Enterovirus F	|		|	scientific name	|
+1335626	|	MERS	|		|	acronym	|
+1335626	|	MERS coronavirus	|		|	synonym	|
+1335626	|	MERS virus	|		|	synonym	|
+1335626	|	MERS-CoV	|		|	genbank acronym	|
+1335626	|	Middle East Respiratory Syndrome Coronavirus (MERS-CoV)	|		|	synonym	|
+1335626	|	Middle East respiratory syndrome coronavirus	|		|	scientific name	|
+1352235	|	Castor canadensis papillomavirus 1	|		|	scientific name	|
+1352235	|	Castor canadensis papillomavirus type 1	|		|	synonym	|
+1392388	|	Sweet potato leaf curl Shanghai virus	|		|	scientific name	|
+1411991	|	Banana streak VN virus	|		|	scientific name	|
+1411991	|	Banana streak virus strain Acuminata Vietnam	|		|	synonym	|
+1458701	|	Norovirus Hu/GII.2/HS255/2011/USA	|		|	scientific name	|
+1458702	|	Norovirus Hu/GII.4/HS288/2012/USA	|		|	scientific name	|
+1458703	|	Norovirus Hu/GII.4/HS292/2012/USA	|		|	scientific name	|
+1458704	|	Norovirus Hu/GII.4/HS66/2001/USA	|		|	scientific name	|
+1458705	|	Norovirus Hu/GII.6/HS245/2010/USA	|		|	scientific name	|
+1468172	|	Gaillardia latent virus	|		|	scientific name	|
+1472717	|	Enhydra lutris papillomavirus 1	|		|	scientific name	|
+1475062	|	Porcine stool-associated circular virus 4	|		|	scientific name	|
+1475143	|	Mink circovirus	|		|	scientific name	|
+1476909	|	BSMyV	|		|	genbank acronym	|
+1476909	|	Banana streak MY virus	|		|	scientific name	|
+1476909	|	Banana streak Mys virus	|		|	synonym	|
+1476909	|	Banana streak Mysore virus	|		|	synonym	|
+1482734	|	Duck picornavirus GL/12	|		|	scientific name	|
+1482734	|	Duck picornavirus strain GL/12	|		|	synonym	|
+1483681	|	Tortoise rafivirus A	|		|	scientific name	|
+1488574	|	Human genital-associated circular DNA virus-1	|		|	scientific name	|
+1505530	|	Pagoda yellow mosaic associated virus	|		|	scientific name	|
+1507401	|	Bocaparvovirus	|		|	scientific name	|
+1507401	|	Bocavirus	|		|	synonym	|
+1511867	|	Carnivore bocaparvovirus 2	|		|	scientific name	|
+1511877	|	Ungulate bocaparvovirus 5	|		|	scientific name	|
+1511885	|	Canine bocavirus 1	|		|	scientific name	|
+1513188	|	Lepidopteran ambidensovirus 1	|		|	scientific name	|
+1513245	|	Dyosigmapapillomavirus	|		|	scientific name	|
+1513254	|	Dyosigmapapillomavirus 1	|		|	scientific name	|
+1653394	|	Mammarenavirus	|		|	scientific name	|
+1836608	|	Canine kobuvirus	|		|	scientific name	|
