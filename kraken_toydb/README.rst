@@ -1,6 +1,6 @@
 This Kraken database is a toy example. It contains 95 viruses mostly related to measles viruses.
 
-It was generated using sequana v0.1.5 using the list of ENA accession numbers
+It was generated using `sequana v0.1.5 <http://github.com/sequana/sequana>`_ using the list of ENA accession numbers
 provided in this directory (toydb.txt) and created as follows::
 
 
