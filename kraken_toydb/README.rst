@@ -5,8 +5,8 @@ provided in this directory (toydb.txt) and created as follows::
 
 
     from sequana import KrakenBuilder   
-    kb = KrakenBuilder("kraken_toy_db")
-    kb.run(["toydb.txt"])
+    kb = KrakenBuilder("kraken_toy_db") # name od the final DB
+    kb.run(["toydb.txt"])               # list of files with accession number as column)
     kb.clean_db()
 
 The final DB is only 32Mb in size (uncompressed), which is convenient for testing.
