@@ -36,6 +36,7 @@ FASTA files.
 
 The database contains (as listed in the ENA genome page) the following
 categories:
+
 - viruses
 - bacteria
 - organelles
