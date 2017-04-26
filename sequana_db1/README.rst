@@ -28,6 +28,12 @@ and 15Go of space disk.
    # database is built
    kb.clean_db()
 
+:minimizer-len: 13  
+:max-db-size: 8
+:kmer-len: 31
+:jellyfish-hash-size: 4000000000  (hashsize = 4 000 000 000 * 7 bytes = 30 Gb memory required)
+
+
 The list ena_list.txt contains the ENA accession numbers used during the construction of the database and is available with the synapse page.
 
 In this repository we also provide a file named **annotations.csv** that
