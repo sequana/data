@@ -54,12 +54,10 @@ categories:
 
 In addition, a few fungis have been added:
 
-- leishmania
+- leishmania donovani
 - aspergillus
-- pombe
-- candida dubliniensis 
-- glabrata 
-- albicans
-- plasmodium vivax
-- Cryptococcus neoformans
+- schizosaccharomyces pombe
+- candida (dubliniensis, albicans and glabrata)
+- plasmodium vivax genome (Plasmodium falciparum 3D7) -- (WGS exclusion of mitochondrion)
+- Cryptococcus neoformans (WGS)
 
