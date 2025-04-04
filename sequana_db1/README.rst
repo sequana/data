@@ -5,6 +5,8 @@ Since the database is large, it is posted elsewhere on synapse website:
 https://www.synapse.org/#!Synapse:syn6171000/wiki/401433 where the database
 creation is also described.
 
+It was also posted on Zenodo: https://zenodo.org/records/15147936
+
 :Memory required: 8Gb
 :Number of genomes: 24226
 
